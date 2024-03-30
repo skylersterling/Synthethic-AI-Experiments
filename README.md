@@ -1,1 +1,1 @@
-# Synthethic-AI-Experiments
+# Synthetic-AI-Experiments
